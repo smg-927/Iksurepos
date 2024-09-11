@@ -1,0 +1,162 @@
+[33mcommit b88dacae57e65215fb6960bf595069e38f461112[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Iksu Kim <iksuplorer@gmail.com>
+Date:   Sun Sep 18 13:09:45 2022 +0900
+
+    Contributor modi
+
+[33mcommit 6994058fb38b35b90c72a89e776703ec11d4cec2[m
+Author: Iksu Kim <iksuplorer@gmail.com>
+Date:   Thu Sep 15 11:58:42 2022 +0900
+
+    Contributer add
+
+[33mcommit fa6642ce22bffb961d63b6b6239e26f8fd2e2c4d[m
+Author: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+Date:   Mon Sep 5 17:10:23 2022 +0900
+
+    Delete newfile
+
+[33mcommit f47af184dd287d4a8baad0555e4d0ad16c9108c0[m
+Author: Iksu Kim <iksuplorer@ssu.ac.kr>
+Date:   Wed Aug 31 23:13:51 2022 +0900
+
+    First commit
+    
+    첫 번째 커밋을 해보았습니다.
+
+[33mcommit 109db58a617d3b71216d3d3c3120016456f4fa44[m
+Author: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+Date:   Tue Sep 8 14:33:15 2020 +0900
+
+    Update Contributor.md
+
+[33mcommit 09d2923bda496312b56474585c45176a998bc615[m
+Author: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+Date:   Mon Sep 16 11:49:10 2019 +0900
+
+    Update Contributor.md
+
+[33mcommit 35326da00251b728888fd8c824cc5cc7e2d9bbca[m
+Merge: 03a70f9 c38f06e
+Author: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Sep 11 13:35:26 2019 +0900
+
+    Merge pull request #2 from iksuplorer/ssu
+    
+    added anybody
+
+[33mcommit c38f06e58529300a30e9b3fa2c8d772cb5d18502[m
+Author: Iksu Kim <iksuplorer@gmail.com>
+Date:   Wed Sep 11 13:28:15 2019 +0900
+
+    added anybody
+
+[33mcommit 03a70f9fffd8d1263a6b0b698d5afcbc4a5e194f[m
+Author: iksuplorerssu <54349558+iksuplorerssu@users.noreply.github.com>
+Date:   Wed Sep 11 13:17:43 2019 +0900
+
+    Update Contributor.md
+
+[33mcommit b8afda19a2bb643a131f66adf102329d46a1aa7c[m
+Author: iksuplorerssu <54349558+iksuplorerssu@users.noreply.github.com>
+Date:   Wed Sep 11 13:15:57 2019 +0900
+
+    Update Contributor.md
+
+[33mcommit 6a8ce185c39bde5b172d266c9ed96b965c6991b0[m
+Merge: 927a167 8beb0c8
+Author: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Sep 11 08:25:46 2019 +0900
+
+    Merge pull request #1 from iksuplorerssu/mybranch
+    
+    added contributor
+
+[33mcommit 8beb0c89a24e1a3a41fe6dd74954692be2d7f2a7[m
+Author: iksuplorerssu <54349558+iksuplorerssu@users.noreply.github.com>
+Date:   Wed Sep 11 08:21:07 2019 +0900
+
+    Update Contributor.md
+    
+    good
+    
+    Co-Authored-By: 김익수 <43231751+iksuplorer@users.noreply.github.com>
+
+[33mcommit 378a78da331f155a5c163ce0d30df0e37a37207f[m
+Author: iksuplorerssu <iksuplorer.ssu.ac.kr>
+Date:   Tue Sep 10 15:05:43 2019 +0900
+
+    added contributor
+
+[33mcommit 927a167c1a444c4829b3326deb1fcd8cc7efc7c4[m
+Author: Iksu Kim <iksuplorer@gmail.com>
+Date:   Fri Aug 23 15:43:03 2019 +0900
+
+    First commit
+    
+    첫 번째 커밋을 해보았습니다.
+    Contributor.md 파일에는 참여자 목록을 저장합니다.
+
+[33mcommit b02e2af09b48cde2bfc775d46621d0ab767a70b2[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Fri Aug 23 13:15:57 2019 +0900
+
+    Update README.md
+
+[33mcommit 4771dadbafb7c94f3c446e11c76a3549ba86b96c[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:20:45 2019 +0900
+
+    real last commit
+    
+    정말 이게 마지막 커밋입니다.
+
+[33mcommit c6f6981cad3ebcc557a136cb9e4bf64b678dd8cf[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:18:50 2019 +0900
+
+    final commit
+    
+    마지막 커밋입니다.
+
+[33mcommit 2f48f8e108af2362827d3872aa704f869dba9321[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:14:09 2019 +0900
+
+    Update README.md
+
+[33mcommit ba24193954f9f56a70955c3c925dd599ddd6b9bf[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:13:15 2019 +0900
+
+    Update README.md
+
+[33mcommit 46a311921e7523f89885a42412a344294331f201[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:12:38 2019 +0900
+
+    Update README.md
+
+[33mcommit 65931801e5de214fe5b3748964ffc94f845ad985[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:11:19 2019 +0900
+
+    Update README.md
+
+[33mcommit b47e7fd98bd470dfe931fe8846daf019d99d8c7b[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:10:29 2019 +0900
+
+    Update README.md
+
+[33mcommit 0524a87b14456576ed385e4bbcb6f27106ac6e67[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 17:07:38 2019 +0900
+
+    Update README.md
+
+[33mcommit 87f914773a3878747b89c9b782fd178d82e2a847[m
+Author: iksuplorer <43231751+iksuplorer@users.noreply.github.com>
+Date:   Wed Aug 21 16:45:11 2019 +0900
+
+    Initial commit
